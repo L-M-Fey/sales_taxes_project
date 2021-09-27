@@ -14,7 +14,7 @@ Once both the application file and the config file are in the same folder, run t
 
 Once the application is running, add each of the shopping items you want to add, one line at a time, using the following sentence structure: 
 
-> *item count in numeric* *product name* at *price without taxes in decimals*
+> \*item count in numeric\* \*product name\* at \*price without taxes in decimals\*
 
 If a product is imported, make sure to include that in the product name. So here are a few examples of valid shopping items:
 
